@@ -2,7 +2,7 @@
 -----------------------
 - Author : Mohamed Magdy Metwally
 - Title : Full-Stack Developer Angular2+ / Node.JS
-- https://eng-m-ma9dy.github.io/MAGDY/
+- https://eng-m-magdy.netlify.app
 #
 # About Website :
 -----------------------
@@ -10,4 +10,4 @@
 #
 # Website Link :
 ------------------------
-- https://eng-m-ma9dy.github.io/GameOver/
+- https://m-ma999dy.github.io/MEGA-App-GameOver/
